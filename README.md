@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm JOE! 👋
 
-<!--
-**thesixers/thesixers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. I enjoy collaborating with others and continuously learning to improve my skills.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Node.js, Express
+- **Tools:** Git, Docker, GitHub Actions
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud Services:** Google Cloud Platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some of the projects I've worked on:
+
+### [Project Name](https://github.com/thesixers/projectname)
+A brief description of the project and its purpose.
+
+### [Another Project](https://github.com/thesixers/anotherproject)
+A brief description of the project and its purpose.
+
+## GitHub Stats
+![thesixers's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesixers&show_icons=true&theme=radical)
+
+## Contact
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/thesixers/) or via [email](mailto:thesixers@example.com).
+
+Looking forward to connecting with you!
