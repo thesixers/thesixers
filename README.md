@@ -1,4 +1,4 @@
-# Hi there, I'm JOE! 👋
+NA👌
 
 ## About Me
 I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. I enjoy collaborating with others and continuously learning to improve my skills.
@@ -6,8 +6,8 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 ## Skills
 - **Languages:** Python, JavaScript, TypeScript
 - **Frameworks/Libraries:** React, Node.js, Express
-- **Tools:** Git, Docker, GitHub Actions
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, GitHub Actions
+- **Databases:** PostgreSQL, MongoDB
 - **Cloud Services:** Google Cloud Platform
 
 ## Projects
