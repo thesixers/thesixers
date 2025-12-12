@@ -60,7 +60,7 @@
 
 <div align="center">
   <a href="https://hkai-web.onrender.com/" target="_blank">
-    <img src="https://hkai-web.onrender.com/assets/logo-CLnazNvh.png" width="600px" alt="HKAI Preview" />
+    <img src="https://hkai-web.onrender.com/assets/logo-CLnazNvh.png" width="300px" alt="HKAI Preview" />
   </a>
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
   <a href="https://thewebtoonproject.com/" target="_blank">
-    <img src="https://thewebtoonproject.com/twp.png" width="600px" alt="TWP Preview" />
+    <img src="https://thewebtoonproject.com/twp.png" width="300px" alt="TWP Preview" />
   </a>
 </div>
 
