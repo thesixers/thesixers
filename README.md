@@ -58,9 +58,11 @@
 #### 🤖 **HKAI - Course Builder**
 > *The Knowledge Engine.*
 
-<a href="https://hkai-web.onrender.com/" target="_blank">
-  <img src="https://hkai-web.onrender.com/assets/logo-CLnazNvh.png" width="100%" alt="HKAI Preview" />
-</a>
+<div align="center">
+  <a href="https://hkai-web.onrender.com/" target="_blank">
+    <img src="https://hkai-web.onrender.com/assets/logo-CLnazNvh.png" width="600px" alt="HKAI Preview" />
+  </a>
+</div>
 
 * **Objective:** An intelligent learning platform that uses AI to generate course structures and content automatically. Bridges the gap between raw data and structured education.
 * **Tech:** LLM Integration, React, Fastify, PostgreSQL.
@@ -69,17 +71,15 @@
 #### 🎨 **The Webtoon Project (TWP)**
 > *The Creator's Canvas.*
 
-<a href="https://thewebtoonproject.com/" target="_blank">
-  <img src="https://thewebtoonproject.com/twp.png" width="100%" alt="TWP Preview" />
-</a>
+<div align="center">
+  <a href="https://thewebtoonproject.com/" target="_blank">
+    <img src="https://thewebtoonproject.com/twp.png" width="600px" alt="TWP Preview" />
+  </a>
+</div>
 
 * **Focus:** A digital publishing platform optimized for comics. Features deep SEO integration, metadata management, and a seamless UX for content creators.
 * **Tech:** React, SEO, Node.js, UX Design.
 * **Access:** [Live Site](https://thewebtoonproject.com/) | [Source Code](https://github.com/thesixers/twp-vite)
-
-#### 🏨 **Hotel Booking App**
-* **Key Loot:** Integrated **Paystack** for seamless payments and USSD transfer acceptance.
-* **Tech:** React Native + Node.js.
 
 ---
 
