@@ -29,7 +29,7 @@
 
 * **🛠 The Builder:** I move fast. Concept → Deployment. Whether it's a secure messaging app or a hotel booking platform, I construct the entire pipeline.
 * **🧠 The Debugger:** I don't follow tutorials; I break them. I stare down console logs until the error apologizes.
-* **🌐 The Versatile Dev:** I drive the whole highway—Frontend, Backend, Mobile (React Native), AI integration, and Security.
+* **🌐 The Versatile Dev:** I drive the whole highway Frontend, Backend, Mobile (React Native), AI integration, and Security.
 
 ---
 
