@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🚀 Hi there, I'm Nnamdi Amaga!
+  # Nnamdi Amaga!
   ### *Code Architect | Full Stack Maverick | The "GeNeSix" Protocol*
   
   <p>
